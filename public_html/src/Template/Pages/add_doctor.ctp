@@ -6,7 +6,7 @@
           <legend class="text-center"><?= __('新規登録') ?></legend>
           <div class="row">
             <div class="col-md-6 required">
-              <label>医籍番号</label>
+              <label>医籍番号テスト</label>
             </div>
             <div class="col-md-6">
             <?php
